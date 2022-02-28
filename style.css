@@ -1,0 +1,132 @@
+.body{
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: 100% 100%;
+}
+.ffont{
+
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: white;
+    padding-right: 15px;
+    padding-top: 0cm;
+}
+a:hover{
+    background-color: blue;
+}
+.block{
+    background: rgba(0, 0, 0, 0.8);
+    margin-top: 400px;
+}
+.fooback{
+    background: rgba(0, 0, 0, 0.5);
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.block2{
+    background: rgba(0, 0, 0, 0.8);
+    margin-top:200px;
+    align: center;    
+}
+.pp{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+.paragraph{
+    width: 35rem;
+    text-align: justify;
+    margin-bottom: 3%;
+    color: white;
+}
+.actions {
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding-bottom: 30px;
+}
+.navigation{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 18px;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+.join{
+      color: white;
+  }
+h2{
+    color: white;
+    text-align: 30cm;
+}
+
+  li {
+    display: inline;
+    padding: 0.5rem;
+    margin-right: 2rem;
+    margin-left: 2rem;
+
+  }
+  a {
+    color: white;
+  }
+  .block3{
+    justify-items: center;
+    background: rgba(0, 0, 0, 0.8);
+    margin-top: 8rem;
+    padding-top: 50px;
+}
+form {
+    width: 35rem;
+    
+    margin-bottom: 4%;
+  }
+  #main {
+    padding-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+#main div {
+  width: 250px;
+  padding: 1%;
+  padding-top: 2%;
+  display: flex;
+  align-content: flex-start;
+  align-items: center;
+}
+  .left {
+    color: white;
+    display: flex;
+    flex: 1;
+    margin-left: 40rem;
+  }
+  .mid {
+    color: white;
+    display: flex;
+    flex: 0.2;
+  }
+  
+  .right {
+    color: white;
+    display: flex;
+    flex: 1;
+  }
+.hh{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+.buttons{
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+    margin-left: 40rem;
+    padding-right: 1px;
+}
